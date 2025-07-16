@@ -1,0 +1,33 @@
+# Source files
+src/
+test/
+
+# Configuration files
+tsconfig.json
+jest.config.js
+
+# TypeScript files (except in dist)
+*.ts
+!dist/*.ts
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Logs
+logs/
+*.log
+
+# Test coverage
+coverage/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS generated files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,32 @@
+{
+  "name": "time-converter",
+  "version": "1.0.0",
+  "description": "Better time converter 100% TypeScript",
+  "main": "./dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mvory9/time-converter-ts.git"
+  },
+  "keywords": [
+    "js",
+    "ts",
+    "time",
+    "time-converter"
+  ],
+  "author": "Mvory9",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mvory9/time-converter-ts/issues"
+  },
+  "homepage": "https://github.com/Mvory9/time-converter-ts#readme",
+  "devDependencies": {
+    "@types/jest": "^30.0.0",
+    "jest": "^30.0.4",
+    "ts-jest": "^29.4.0",
+    "ts-node": "^10.9.2"
+  }
+}
