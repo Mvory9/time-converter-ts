@@ -1,5 +1,5 @@
 {
-  "name": "time-converter",
+  "name": "time-converter-ts",
   "version": "1.0.0",
   "description": "Better time converter 100% TypeScript",
   "main": "./dist/index.js",
@@ -15,7 +15,8 @@
     "js",
     "ts",
     "time",
-    "time-converter"
+    "time-converter",
+    "time-converter-ts"
   ],
   "author": "Mvory9",
   "license": "MIT",
