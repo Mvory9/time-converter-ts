@@ -1,9 +1,8 @@
 # time-converter-ts
 
 ![npm](https://img.shields.io/npm/v/time-converter-ts)
-![Build Status](https://img.shields.io/github/actions/workflow/status/Mvory9/time-converter-ts/ci.yml?branch=main)
 ![License](https://img.shields.io/npm/l/time-converter-ts)
-![npm downloads](https://img.shields.io/npm/dt/time-converter-ts)
+[![npm downloads](https://img.shields.io/npm/dt/time-converter-ts.svg)](https://www.npmjs.com/package/time-converter-ts)
 ![Coverage Status](https://img.shields.io/badge/coverage-100%25-brightgreen)
 ![TypeScript](https://img.shields.io/badge/TypeScript-100%25-blue)
 ![GitHub issues](https://img.shields.io/github/issues/Mvory9/time-converter-ts)
